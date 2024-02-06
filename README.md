@@ -1,5 +1,3 @@
-(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")")
-
 <h1 align="center">Hi 👋, I'm Hamza Ashraf</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
