@@ -6,11 +6,7 @@
 
 
 - 🔭 I’m currently working on **My Own Projects**
-
-- 🌱 I’m currently learning **Full stack**
-
-- 💬 Ask me about **MERN**
-
+- 
 - 📫 How to reach me **hamzaashrafkh111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
