@@ -2,7 +2,6 @@
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
 
-
 - 🔭 I’m currently working on **My Own Projects*
 - 📫 How to reach me **hamzaashrafkh111@gmail.com**
 
