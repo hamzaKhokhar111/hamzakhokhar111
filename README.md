@@ -1,5 +1,7 @@
 👋 Hey there! I’m Hamza Ashraf
+
 👀 I’m a Full Stack Engineer passionate about building smooth, user-friendly websites. I’ve solved over 100+ LeetCode problems!
+
 🌱 I’m currently learning more Microservices, Algorithms, more Cloud, more OOD systems, Design Patterns and Databases
 💞️ I’m looking to collaborate on projects with JavaScript, React, Next, Postgresql, Mysql, Node.js, Express.js, Framer-motion.js and Sockets.
 📫 How to reach me:
