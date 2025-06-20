@@ -7,9 +7,6 @@
 💞️ I’m looking to collaborate on projects with JavaScript, React, Next, Postgresql, Mysql, Node.js, Express.js, Framer-motion.js and Sockets
 
 
-]
-
-
 💻 Tech Stack:
 C, C++, CSS3, HTML5, JavaScript, TypeScript, AWS, Azure, Firebase, Heroku, Netlify, Vercel, Bootstrap, Express.js, Node.js, React, Redux, SASS, TailwindCSS, Docker, Kubernetes, MongoDB, MySQL
 
