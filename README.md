@@ -1,12 +1,30 @@
-👋 Hey there! I’m Hamza Ashraf
+# 👋 Hey there! I’m Hamza Ashraf
 
-👀 I’m a Full Stack Engineer passionate about building smooth, user-friendly websites. I’ve solved over 100+ LeetCode problems!
+### 👀 About Me
+I’m a **Full Stack Engineer** passionate about building smooth, user-friendly websites.  
+I’ve solved **450+ LeetCode problems** and love tackling challenging problems.
 
-🌱 I’m currently learning more Microservices, Algorithms, more Cloud, more OOD systems, Design Patterns and Databases 
+### 🌱 Currently Learning
+- Microservices  
+- Advanced Algorithms  
+- Cloud Platforms (AWS, Azure)  
+- OOD Systems & Design Patterns  
+- Databases (PostgreSQL, MySQL)
 
-💞️ I’m looking to collaborate on projects with JavaScript, React, Next, Postgresql, Mysql, Node.js, Express.js, Framer-motion.js and Sockets
+### 💞️ I’m Looking to Collaborate On
+Projects using:  
+**JavaScript | React | Next.js | Node.js | Express.js | PostgreSQL | MySQL | Framer Motion | WebSockets**
 
+### 💻 Tech Stack
+**Languages & Frameworks:** C, C++, HTML5, CSS3, JavaScript, TypeScript, React, Redux, Node.js, Express.js, Next.js, TailwindCSS, SASS, Bootstrap  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Cloud & Deployment:** AWS, Azure, Firebase, Heroku, Netlify, Vercel  
+**Tools & Others:** Docker, Kubernetes, Framer Motion
 
+### 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/hamzaashraf/)  
+- [Portfolio](https://myselfhamza.netlify.app/)  
+- [Email](mailto:hamzaashrafkh111@gmail.com)
 
-💻 Tech Stack:
-C, C++, CSS3, HTML5, JavaScript, TypeScript, AWS, Azure, Firebase, Heroku, Netlify, Vercel, Bootstrap, Express.js, Node.js, React, Redux, SASS, TailwindCSS, Docker, Kubernetes, MongoDB, MySQL
+### ⚡ Fun Fact
+I love contributing to **Open Source** and improving my skills through real-world projects!
