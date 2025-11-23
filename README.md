@@ -23,7 +23,7 @@ Projects using:
 
 ### 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/hamzaashraf/)  
-- [Portfolio](https://myselfhamza.netlify.app/)  
+- [Portfolio](https://myselfhamza.vercel.app/)  
 - [Email](mailto:hamzaashrafkh111@gmail.com)
 
 ### ⚡ Fun Fact
