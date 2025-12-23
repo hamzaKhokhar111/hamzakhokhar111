@@ -27,4 +27,4 @@ Projects using:
 - [Email](mailto:hamzaashrafkh111@gmail.com)
 
 ### ⚡ Fun Fact
-I love contributing to **Open Source** and improving my skills through real-world projects!...
+I love contributing to **Open Source** and improving my skills through real-world projects!
